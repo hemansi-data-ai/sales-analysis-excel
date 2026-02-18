@@ -57,14 +57,6 @@ This data helps analyze **sales performance across regions and over time**.
 
 ---
 
-## 🚀 Next Steps
-
-- SQL analysis on the same dataset
-- Power BI dashboard creation
-- Advanced analytics and Machine Learning projects
-
----
-
 ## 👩‍💻 Author
 
 **Hemansi**  
